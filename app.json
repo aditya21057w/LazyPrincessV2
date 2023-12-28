@@ -1,8 +1,8 @@
 {
-    "name": "LazyPrincessV2",
-    "description": "LazyPrincess with Url Shortner",
+    "name": "aajkikhabar",
+    "description": "Aaj ki khabar with Url Shortner",
     "stack": "container",
-    "logo": "https://telegra.ph/file/68d28011b2bc356b5db01.png",
+    "logo": "https://aajkikhabar.whf.bz/uploads/system_logo/logo_6567e9958f83f.png",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/LazyDeveloperr",
-    "repository": "https://github.com/LazyDeveloperr/LazyPrincessV2",
+    "website": "https://github.com/aditya21057w",
+    "repository": "https://github.com/aditya21057w/LazyPrincessV2",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
