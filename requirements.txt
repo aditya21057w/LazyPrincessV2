@@ -1,7 +1,7 @@
 git+https://github.com/Joelkb/cinemagoer
 pyrogram>=2.0.30
 tgcrypto
-pymongo[srv]==3.12.1
+pymongo[srv]
 mongoengine
 motor==3.1.1
 marshmallow<=3.14.1
